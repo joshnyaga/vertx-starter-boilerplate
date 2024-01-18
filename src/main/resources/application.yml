@@ -1,0 +1,12 @@
+#application config
+SERVER_PORT: 8888
+VERSION: 1
+
+#database config
+DB_HOST: "localhost"
+DB_PORT:  3310
+DB_DATABASE: my_db
+DB_USER: josh
+DB_PASSWORD: josh7933
+
+
